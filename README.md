@@ -10,9 +10,11 @@
 
 ## Структура промптов
 
+```
 prompts/
 └── en/
     ├── step1_strategy.md
     ├── step2_tasks.md
     ├── step3_changelog.md
     └── step4_run.md
+```
